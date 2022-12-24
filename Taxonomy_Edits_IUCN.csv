@@ -1,0 +1,3 @@
+Old_Taxonomy,New_Taxonomy,Notes
+Eukaryota;Chordata;Cephalaspidomorphi;,Eukaryota;Chordata;Hyperoartia;,Assign members of class Cephalaspidomorphi to class Hyperoartia.
+Eukaryota;Chordata;Mammalia;Cetartiodactyla;,Eukaryota;Chordata;Mammalia;Artiodactyla;,Assign members of order Cetartiodactyla to order Artiodactyla.
